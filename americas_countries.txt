@@ -1,0 +1,39 @@
+North America:
+Canada
+United States
+USA
+Mexico
+Belize
+Guatemala
+El Salvador
+Honduras
+Nicaragua
+Costa Rica
+Panama
+Cuba
+Jamaica
+Haiti
+Dominican Republic
+Bahamas
+Antigua and Barbuda
+Saint Kitts and Nevis
+Dominica
+Saint Lucia
+Saint Vincent and the Grenadines
+Barbados
+Grenada
+Trinidad and Tobago
+
+South America:
+Argentina
+Bolivia
+Brazil
+Chile
+Colombia
+Ecuador
+Guyana
+Paraguay
+Peru
+Suriname
+Uruguay
+Venezuela
